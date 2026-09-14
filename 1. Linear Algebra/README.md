@@ -10,3 +10,4 @@ Linear algebra fundamentals implemented from scratch.
 | 2 | [Transpose of a Matrix](transpose_matrix.py) | Easy | ✅ |
 | 3 | [Reshape Matrix](reshape_matrix.py) | Easy | ✅ |
 | 4 | [Calculate Mean by Row or Column](calculate_matrix_mean.py) | Easy | ✅ |
+| 5 | [Scalar Multiplication of a Matrix](scalar_multiply.py) | Easy | ✅ |

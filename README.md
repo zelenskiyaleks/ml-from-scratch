@@ -7,7 +7,7 @@ from first principles.
 
 | Topic | Solved | Total |
 |---|---:|---:|
-| Linear Algebra | 4 | - |
+| Linear Algebra | 5 | - |
 
 ## Problem Sources
 
