@@ -12,3 +12,4 @@ Linear algebra fundamentals implemented from scratch.
 | 4 | [Calculate Mean by Row or Column](calculate_matrix_mean.py) | Easy | ✅ |
 | 5 | [Scalar Multiplication of a Matrix](scalar_multiply.py) | Easy | ✅ |
 | 6 | [Calculate Eigenvalues of a Matrix](calculate_eigenvalues.py) | Medium | ✅ |
+| 7 | [Matrix Transformation](matrix_transformation.py) | Medium | ✅ |
