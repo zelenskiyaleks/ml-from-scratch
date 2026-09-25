@@ -14,3 +14,4 @@ Linear algebra fundamentals implemented from scratch.
 | 6 | [Calculate Eigenvalues of a Matrix](calculate_eigenvalues.py) | Medium | ✅ |
 | 7 | [Matrix Transformation](matrix_transformation.py) | Medium | ✅ |
 | 8 | [Calculate 2x2 Matrix Inverse](inverse_2x2.py) | Easy | ✅ |
+| 9 | [Matrix Times Matrix](matrix_multiplication.py) | Medium | ✅ |
