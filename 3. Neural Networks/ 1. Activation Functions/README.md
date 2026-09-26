@@ -8,3 +8,4 @@ Neural network activation functions implemented from scratch.
 |---|---------|------------|--------|
 | 1 | [Sigmoid](sigmoid.py) | Easy | ✅ |
 | 2 | [ReLU](relu.py) | Easy | ✅ |
+| 3 | [Softmax](softmax.py) | Medium | ✅ |
