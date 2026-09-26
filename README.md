@@ -7,9 +7,11 @@ from first principles.
 
 | Topic | Solved | Total |
 |-------|--------|-------|
-| Linear Algebra | 8 | - |
+| Linear Algebra | 9 | - |
 | Statistics | 1 | - |
+| Deep Learning | 1 | - |
 
 ## Problem Sources
 
 - Deep-ML
+- TensorTonic
