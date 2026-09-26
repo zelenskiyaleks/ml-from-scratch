@@ -6,8 +6,9 @@ from first principles.
 ## Progress
 
 | Topic | Solved | Total |
-|---|---:|---:|
-| Linear Algebra | 9 | - |
+|-------|--------|-------|
+| Linear Algebra | 8 | - |
+| Statistics | 1 | - |
 
 ## Problem Sources
 
