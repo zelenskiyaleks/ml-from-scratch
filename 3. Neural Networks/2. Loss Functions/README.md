@@ -10,3 +10,4 @@ Neural network loss functions implemented from scratch.
 | 2 | [Cross-Entropy Loss](cross_entropy_loss.py) | Medium | ✅ |
 | 3 | [Log Loss (Per-Sample)](log_loss.py) | Easy | ✅ |
 | 4 | [Hinge Loss](hinge_loss.py) | Easy | ✅ |
+| 5 | [Huber Loss](huber_loss.py) | Easy | ✅ |
