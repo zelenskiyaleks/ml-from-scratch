@@ -8,3 +8,4 @@ Optimization algorithms implemented from scratch.
 |---|---------|------------|--------|
 | 1 | [Gradient Descent for a 1D Quadratic](gradient_descent_quadratic.py) | Easy | ✅ |
 | 2 | [Apply a Gradient-Descent Step](gradient_descent_step.py) | Medium | ✅ |
+| 3 | [Batch vs Stochastic vs Mini-Batch GD](batch_gd_compare.py) | Medium | ✅ |
