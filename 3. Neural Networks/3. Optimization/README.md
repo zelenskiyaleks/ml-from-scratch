@@ -10,3 +10,4 @@ Optimization algorithms implemented from scratch.
 | 2 | [Apply a Gradient-Descent Step](gradient_descent_step.py) | Medium | ✅ |
 | 3 | [Batch vs Stochastic vs Mini-Batch GD](batch_gd_compare.py) | Medium | ✅ |
 | 4 | [AdaGrad Optimizer](adagrad.py) | Easy | ✅ |
+| 5 | [RMSProp Optimizer](rmsprop.py) | Easy | ✅ |
