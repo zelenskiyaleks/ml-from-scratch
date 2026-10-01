@@ -13,3 +13,4 @@ Optimization algorithms implemented from scratch.
 | 5 | [RMSProp Optimizer](rmsprop.py) | Easy | ✅ |
 | 6 | [Adam Optimizer](adam.py) | Easy | ✅ |
 | 7 | [AdamW (Decoupled Weight Decay)](adamw.py) | Easy | ✅ |
+| 8 | [Warmup + Linear Decay LR Schedule](warmup_decay_schedule.py) | Easy | ✅ |
