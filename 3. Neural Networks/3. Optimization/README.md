@@ -12,3 +12,4 @@ Optimization algorithms implemented from scratch.
 | 4 | [AdaGrad Optimizer](adagrad.py) | Easy | ✅ |
 | 5 | [RMSProp Optimizer](rmsprop.py) | Easy | ✅ |
 | 6 | [Adam Optimizer](adam.py) | Easy | ✅ |
+| 7 | [AdamW (Decoupled Weight Decay)](adamw.py) | Easy | ✅ |
