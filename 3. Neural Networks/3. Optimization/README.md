@@ -15,3 +15,4 @@ Optimization algorithms implemented from scratch.
 | 7 | [AdamW (Decoupled Weight Decay)](adamw.py) | Easy | ✅ |
 | 8 | [Warmup + Linear Decay LR Schedule](warmup_decay_schedule.py) | Easy | ✅ |
 | 9 | [Cosine Annealing LR Scheduler](cosine_annealing_schedule.py) | Easy | ✅ |
+| 10 | [Classical Momentum](momentum_gd.py) | Medium | ✅ |
