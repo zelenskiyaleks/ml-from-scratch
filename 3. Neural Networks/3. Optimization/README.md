@@ -19,3 +19,4 @@ Optimization algorithms implemented from scratch.
 | 11 | [Nesterov Momentum](nesterov_momentum.py) | Medium | ✅ |
 | 12 | [Gradient Clipping](gradient_clipping.py) | Hard | ✅ |
 | 13 | [Linear Warmup](linear_warmup.py) | Easy | ✅ |
+| 14 | [Cosine Annealing with Warm Restarts](cosine_restarts.py) | Medium | ✅ |
