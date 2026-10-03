@@ -20,3 +20,4 @@ Optimization algorithms implemented from scratch.
 | 12 | [Gradient Clipping](gradient_clipping.py) | Hard | ✅ |
 | 13 | [Linear Warmup](linear_warmup.py) | Easy | ✅ |
 | 14 | [Cosine Annealing with Warm Restarts](cosine_restarts.py) | Medium | ✅ |
+| 15 | [LR Range Test and One-Cycle Policy](onecycle.py) | Hard | ✅ |
