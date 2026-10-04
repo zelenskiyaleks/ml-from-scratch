@@ -22,3 +22,4 @@ Optimization algorithms implemented from scratch.
 | 14 | [Cosine Annealing with Warm Restarts](cosine_restarts.py) | Medium | ✅ |
 | 15 | [LR Range Test and One-Cycle Policy](onecycle.py) | Hard | ✅ |
 | 16 | [Mini Training Loop](mini_training_loop.py) | Medium | ✅ |
+| 17 | [Manual Weight Update](manual_weight_update.py) | Medium | ✅ |
