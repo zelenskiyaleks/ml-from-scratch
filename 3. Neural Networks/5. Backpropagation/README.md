@@ -10,3 +10,4 @@ Neural network backpropagation implementations from scratch.
 | 2 | [Backpropagation (Single Hidden Layer)](backprop_single_hidden_layer.py) | Medium | ✅ |
 | 3 | [Basic Autograd](basic_autograd.py) | Easy | ✅ |
 | 4 | [Trace a Reachable Expression Graph](trace_reachable_graph.py) | Medium | ✅ |
+| 5 | [Computational Graph & Autograd](computational_graph_autograd.py) | Medium | ✅ |
