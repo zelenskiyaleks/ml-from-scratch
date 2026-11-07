@@ -12,3 +12,4 @@ Neural network backpropagation implementations from scratch.
 | 4 | [Trace a Reachable Expression Graph](trace_reachable_graph.py) | Medium | ✅ |
 | 5 | [Computational Graph & Autograd](computational_graph_autograd.py) | Medium | ✅ |
 | 6 | [Chain Rule Through a 3-Layer Network](chain_rule_3layer.py) | Medium | ✅ |
+| 7 | [Gradient Check a Scalar Neuron](gradient_check_scalar_neuron.py) | Medium | ✅ |
