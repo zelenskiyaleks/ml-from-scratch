@@ -14,3 +14,4 @@ Neural network backpropagation implementations from scratch.
 | 6 | [Chain Rule Through a 3-Layer Network](chain_rule_3layer.py) | Medium | ✅ |
 | 7 | [Gradient Check a Scalar Neuron](gradient_check_scalar_neuron.py) | Medium | ✅ |
 | 8 | [Gradient-Check an Autodiff Graph](gradient_check_autodiff_graph.py) | Hard | ✅ |
+| 9 | [#212 Backpropagation Through a Computation Graph](backprop_computation_graph.py) | Hard | ✅ |

@@ -9,7 +9,7 @@ from first principles.
 |-------|--------|-------|
 | Linear Algebra | 9 | - |
 | Statistics | 1 | - |
-| Deep Learning | 40 | - |
+| Deep Learning | 41 | - |
 
 ## Problem Sources
 
